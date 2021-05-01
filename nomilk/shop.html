@@ -1,0 +1,205 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>No Milk Shop</title>
+<link href="styles/nomilk-style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	
+		<div class="shop-header">
+		<div class="shop-header-left">
+				<p class="shop-hero-text-small">No</p>
+				<p class="shop-hero-text">Milk</p>
+			<div class="menu-background-item-1"></div>
+			<div class="menu-background-item-2"></div>
+			<div class="menu-background-item-3"></div>
+				<div class="menu-shadow"></div>
+				<div class="menu-shadow-2"></div>
+				<div class="menu-shadow-3"></div>
+			<ul>
+				<li><em><a href="index.html">HOME</a></em></li>
+				<li><em><a href="shop.html">SHOP</a></em></li>
+				<li><em><a href="#">CONTACT</a></em></li>
+			</ul>
+			<div class="cart-background">
+				<a href="cart.html"><img class="cart" src="Icons copy/Cart.svg" alt="cart icon"></a>
+			</div>
+		</div>
+		<div class="shop-header-right">
+			<div class="shop-top">
+				<div class="shop-top-text">
+					<p><em>SHOP</em></p>
+					<div class="top-text-small">
+						<p><em>COFFEE</em></p>
+						<p><em>EQUIPMENT</em></p>
+						<p><em>BREW KITS</em></p>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+	<div class="main-body">
+	
+		<div class="h1-shadow"></div>
+		<h1>COFFEE</h1>
+		
+		<div class="coffee-menu">
+			<img src="Photos/Shop - French Roast.png" alt="Stumpotown French Roast">
+			<img src="Photos/Shop - Trapper Creek.png" alt="Stumpotown Trapper Creek">
+		</div>
+	
+	  <div class="drink-menu">
+			<div class="drink-menu-column">
+				<ul>
+					<li>STUMPTOWN COFFEE</li>
+				</ul>
+			</div>
+			<div class="drink-menu-column-right">
+				<ul>
+					<li>15</li>
+				</ul>
+			</div>
+			<div class="drink-menu-column">
+				<ul>
+					<li>STUMPTOWN COFFEE</li>
+				</ul>
+			</div>
+			<div class="drink-menu-column-right">
+				<ul>
+					<li>15</li>
+				</ul>
+			</div>
+			<div class="shop-drink-menu-column-p">
+				<p>French Roast</p>
+			</div>
+			<div class="shop-drink-menu-column-p">
+				<p>Trapper Creek</p>
+			</div>
+			
+			<div class="add-to-cart">
+				<div class="add-to-cart-column">
+					<a href=""><p id="stumptown-french-roast" onClick="addToCart()">ADD TO CART</p></a>
+				</div>
+				<div class="add-to-cart-column">
+					<a href=""><p id="stumptown-trapper-creek">ADD TO CART</p></a>
+				</div>
+			</div>
+			
+		</div>
+		
+		<div class="shop-photo-banner">
+			<div class="shop-photo-banner-title">
+				<p>WHOLE BEAN COFFEE</p>
+			</div>
+			<div class="shop-photo-banner-text">
+				<p>Whole bean coffee that is fresh, perfectly roasted, and ready for your favourite grinder.  Made from our clean, sustainable, and green bean farming processes.</p>
+			</div>
+			<img src="Photos/Shop - Grinder.png" alt="No Milk Grinder">
+		</div>
+		
+		<div class="equipment">
+			<div class="h1-shadow"></div>
+			<h1>EQUIPMENT</h1>
+		</div>
+		
+		<div class="coffee-menu-double">
+			<img src="Photos/Shop - Aeropress.png" alt="Stumpotown French Roast">
+			<img src="Photos/Shop - French Press.png" alt="Stumpotown Trapper Creek">
+		</div>
+		
+		<div class="drink-menu">
+			<div class="drink-menu-column">
+				<ul>
+					<li>AEROPRESS</li>
+				</ul>
+			</div>
+			<div class="drink-menu-column-right">
+				<ul>
+					<li>30</li>
+				</ul>
+			</div>
+			<div class="drink-menu-column">
+				<ul>
+					<li>BODIUM FRENCH PRESS</li>
+				</ul>
+			</div>
+			<div class="drink-menu-column-right">
+				<ul>
+					<li>36</li>
+				</ul>
+			</div>
+			<div class="shop-drink-menu-column-p">
+				<p>The Aeropress coffee system is portable, lightweight, and brews a sweet, full-bodied cup.</p>
+			</div>
+			<div class="shop-drink-menu-column-p">
+				<p>This 8-cup press produces a result that big flavor, body, and mouthfeel.</p>
+			</div>
+			
+			<div class="add-to-cart-double">
+				<div class="add-to-cart-column">
+					<a href=""><p id="aeropress">ADD TO CART</p></a>
+				</div>
+				<div class="add-to-cart-column">
+					<a href=""><p id="bodium-french-press">ADD TO CART</p></a>
+				</div>
+			</div>
+			
+		</div>
+		
+		<div class="coffee-menu-single">
+			<img src="Photos/Shop - Brew Kit.png" alt="Stumpotown French Roast">
+			
+		</div>
+		
+		<div class="drink-menu-single">
+			<div class="drink-menu-column">
+				<ul>
+					<li>STUMPTOWN COFFEE</li>
+				</ul>
+			</div>
+			<div class="drink-menu-column-right">
+				<ul>
+					<li>15</li>
+				</ul>
+			</div>
+		</div>
+		
+			<div class="shop-drink-menu-column-p-single">
+				<p>The Chemist contains every piece of equipment you need to get from beans to brew. Chemex brewer, filters, Baratza Encore Burr Grinder, ceramic mug, Nobavita Gooseneck Kettle, and pocket scale.</p>
+			</div>
+			
+			
+			<div class="add-to-cart">
+				<div class="add-to-cart-column">
+					<a href=""><p id="chemist-brew-kit">ADD TO CART</p></a>
+				</div>
+			</div>
+			
+		<div class="shop-photo-banner-2">
+			<div class="shop-photo-banner-title-2">
+				<p>QUALITY INSTRUMENTS</p>
+			</div>
+			<div class="shop-photo-banner-text-2">
+				<p>Using the highest quality equipment, we are able to pull the most flavourful shots out of our coffee.  We try to extend that ability to you by offering the best equipment to you at the best prices</p>
+			</div>
+			<img src="Photos/Feature - Brewing.png" alt="No Milk Grinder">
+		</div>
+		<div class="map-shadow-shop"></div>
+		<img class="map-shop" src="Photos/Footer - Map.png" alt="Map">
+		<p class="address-shop">107-117 SCIENCE PLACE</p>
+		
+	</div>
+	
+	<div class="footer-shop">
+		<p>&#64; NO MILK COFFEE</p>
+		<p>107-117 SCIENCE PLACE<br/>SASKATOON, SK</p>
+		<p class="photography">PHOTOGRAPHY BY</p>
+		<p class="visual-hunt">Visualhunt</p>
+		<p class="stump-footer">Stumptown Coffee Roasters</p>
+	</div>
+	
+</body>
+</html>
