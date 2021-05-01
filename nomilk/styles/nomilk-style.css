@@ -21,7 +21,7 @@ body {
 .hero-text {
     text-align: center;
 	margin: 0px;
-	font-family: Odachi;
+	font-family: 'Permanent Marker', cursive;
 	font-size: 15vw;
     position: absolute;
     top: 58%;
@@ -32,7 +32,7 @@ body {
 
 
 .hero-text-small {
-	font-family: Odachi;
+	font-family: 'Permanent Marker', cursive;
 	color: white;
 	font-size: 10vw;
 	padding: 0px;
@@ -45,7 +45,7 @@ body {
 
 
 .header ul {
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	font-size: 1vw;
 	color: #300c06;
 	padding: 0px;
@@ -112,8 +112,7 @@ body {
 }
 
 .top-text {
-	font-family: "Eusthalia Sans Slant";
-	color: white;
+	font-family: 'Lato', sans-serif;	color: white;
 	font-size: 2vw;
 	text-align: center;
 	position: absolute;
@@ -128,8 +127,7 @@ body {
 }
 
 .bottom-text {
-	font-family: "Eusthalia Sans Slant";
-	color: #300c06;
+	font-family: 'Lato', sans-serif;	color: #300c06;
 	font-size: 2vw;
 	text-align: center;
 	position: absolute;
@@ -160,9 +158,9 @@ body {
 }
 
 h1 {
-	font-family: Odachi;
+	font-family: 'Permanent Marker', cursive;
 	margin: 10vw 40vw 2vw;
-	font-size: 8vw;
+	font-size: 5vw;
 	color: #300c06;
 	background-color: #eadfc0;
 	height: 4vw;
@@ -170,7 +168,7 @@ h1 {
 }
 
 h2 {
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	font-size: 1.3vw;
 	color: #300c06;
 	
@@ -181,7 +179,7 @@ h2 {
 	list-style-position: inside;
 	padding: 0px;
 	margin: 0px;
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	color: #300c06;
 	font-size: 1.2vw;
 	text-align: left;
@@ -240,7 +238,7 @@ h2 {
 	height: 22vw;
 	margin-bottom: 4vw;
 	color: #300c06;
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 }
 
 .photo-banner img {
@@ -303,7 +301,7 @@ h2 {
 	height: 23.5vw;
 	margin-bottom: 4vw;
 	color: #300c06;
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 }
 
 .photo-banner2 img {
@@ -378,7 +376,7 @@ h2 {
 
 .address {
 	font-size: 2.2vw;
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	background-color: #da4e31;
 	position: absolute;
 	top: 220vw;
@@ -393,7 +391,7 @@ h2 {
 	position: absolute;
 	top: 234vw;
 	color: white;
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	font-size: 1.2vw;
 	padding: 2vw 6vw;
 }
@@ -451,7 +449,7 @@ h2 {
 .shop-hero-text {
     text-align: center;
 	margin: 0px;
-	font-family: Odachi;
+	font-family: 'Permanent Marker', cursive;
 	font-size: 11vw;
     position: absolute;
     top: 58%;
@@ -461,7 +459,7 @@ h2 {
 }
 
 .shop-hero-text-small {
-	font-family: Odachi;
+	font-family: 'Permanent Marker', cursive;
 	color: white;
 	font-size: 7vw;
 	padding: 0px;
@@ -473,7 +471,7 @@ h2 {
 }
 
 .shop-header ul {
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	font-size: 1vw;
 	color: #300c06;
 	padding: 0px;
@@ -515,7 +513,7 @@ h2 {
 }
 
 .shop-top-text {
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	color: white;
 	font-size: 3vw;
 	text-align: center;
@@ -539,7 +537,7 @@ h2 {
 }
 
 .add-to-cart {
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	font-size: 1.2vw;
 	color: #300c06;
 	text-align: center;
@@ -598,7 +596,7 @@ h2 {
 	height: 22vw;
 	margin-bottom: 4vw;
 	color: #300c06;
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 }
 
 .shop-photo-banner img {
@@ -629,9 +627,9 @@ h2 {
 
 .equipment h1 {
 	width: 28vw;
-	font-family: Odachi;
+	font-family: 'Permanent Marker', cursive;
 	margin: 10vw 35vw 2vw;
-	font-size: 8vw;
+	font-size: 5vw;
 	color: #300c06;
 	background-color: #eadfc0;
 	height: 4vw;
@@ -672,7 +670,7 @@ h2 {
 }
 
 .add-to-cart-double {
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	font-size: 1.2vw;
 	color: #300c06;
 	text-align: center;
@@ -705,7 +703,7 @@ h2 {
 	height: 23vw;
 	margin-bottom: 4vw;
 	color: #300c06;
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 }
 
 .shop-photo-banner-2 img {
@@ -753,7 +751,7 @@ h2 {
 
 .address-shop {
 	font-size: 2.2vw;
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	background-color: #da4e31;
 	position: absolute;
 	top: 282vw;
@@ -768,7 +766,7 @@ h2 {
 	position: absolute;
 	top: 294vw;
 	color: white;
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	font-size: 1.2vw;
 	padding: 2vw 6vw;
 }
@@ -786,9 +784,8 @@ h2 {
 	background-color: #eadfc0;
 	padding: 2.5vw 15vw 2.5vw 2.5vw;
 	text-align: left;
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	font-size: 1.3vw;
-	display: inline-block;
 	margin: 0 0 10vw 0;
 }
 
@@ -799,7 +796,7 @@ h2 {
 }
 
 .total {
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	font-size: 1.3vw;
 	padding: 0vw;
 	margin: 0vw;
@@ -828,7 +825,7 @@ h2 {
 }
 
 .cart-list {
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	font-size: 1.3vw;
 	text-align: left;
 	width: 70vw;
@@ -866,7 +863,7 @@ h2 {
 }
 
 .cart-item {
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	font-size: 1.3vw;
 	text-align: left;
 	position: relative;
@@ -921,7 +918,7 @@ input[type=text] {
 	margin-right: 1vw;
 	padding: 1.3vw;
 	font-size: 1.2vw;
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	background-color: #dbdbdb;
 	border: none;
 }
@@ -949,7 +946,7 @@ form {
 .purchase {
 	text-decoration: none;
 	color: #300c06;
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 }
 
 .purchase p {
@@ -974,7 +971,7 @@ form {
 }
 
 .thank-you-title {
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	font-size: 2.4vw;
 	position: relative;
 	bottom: 22vw;
@@ -1015,7 +1012,7 @@ form {
 
 .address-cart {
 	font-size: 2.2vw;
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	background-color: #da4e31;
 	width: 31vw;
 	position: relative;
@@ -1031,7 +1028,7 @@ form {
 	position: relative;
 	top: 0vw;
 	color: white;
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	font-size: 1.2vw;
 	padding: 2vw 6vw;
 }
@@ -1070,7 +1067,7 @@ form {
 .submit {
 	text-decoration: none;
 	color: #300c06;
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 }
 
 .submit p {
@@ -1104,7 +1101,7 @@ form {
 
 .address-contact{
 	font-size: 2.2vw;
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	background-color: #da4e31;
 	position: absolute;
 	top: 112vw;
@@ -1119,7 +1116,7 @@ form {
 	position: absolute;
 	top: 124vw;
 	color: white;
-	font-family: "Eusthalia Sans Slant";
+	font-family: 'Lato', sans-serif;;
 	font-size: 1.2vw;
 	padding: 2vw 6vw;
 }
