@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88827269-bf5a-4f05-8398-10dee7fd2408" name="Default Changelist" comment="" />
+    <list default="true" id="88827269-bf5a-4f05-8398-10dee7fd2408" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/media/DoomRooms-cauldron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/DoomRooms-classroom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/DoomrRooms-office.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/Screen Shot 2021-05-08 at 10.21.21 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/Screen Shot 2021-05-08 at 10.22.49 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slideshow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_experience.html" beforeDir="false" afterPath="$PROJECT_DIR$/work_experience.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +22,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rlOS1wBrSjtrcIOOFfAEJ010I0" />
   <component name="ProjectViewState">
@@ -23,6 +38,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -30,15 +46,18 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/media" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/media" />
+    </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration name="education.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio/education.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/maggiejohnstone.github.io/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio/index.html" useBuiltInWebServerPort="true">
@@ -49,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.work_experience.html" />
         <item itemvalue="JavaScript Debug.education.html" />
@@ -66,6 +86,9 @@
       <workItem from="1619547209387" duration="5512000" />
       <workItem from="1619644974014" duration="10660000" />
       <workItem from="1619668085145" duration="4523000" />
+      <workItem from="1620534409198" duration="3632000" />
+      <workItem from="1620583912370" duration="4657000" />
+      <workItem from="1621104886092" duration="425000" />
     </task>
     <servers />
   </component>
